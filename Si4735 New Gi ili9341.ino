@@ -373,7 +373,7 @@ void setup(void)
   tft.println( "V3.0.3");
   tft.setCursor(7, 125);
   tft.setTextColor(TFT_WHITE, TFT_BLACK);
-  tft.println( "https://pu2clr.github.io/SI4735/");
+  tft.println( "ARUN KUMAR");
  
   
   
